@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccessibilityService</string>
+
+    <string name="accessibility_service_label">快应用平台自动化测试</string>
+    <string name="accessibility_description">进行快应用平台自动化测试时，请开启此服务。\n 已添加功能：自动点击对话框（识别关键字：允许，创建，添加，知道了）\n
+    自动点击安装（识别关键字：安装，完成）</string>
+    <string name="accessibility_summary">进行快应用平台自动化测试时，请开启此服务</string>
+</resources>

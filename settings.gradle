@@ -1,0 +1,1 @@
+include ':app', ':sendsms', ':choosephoto', ':accessibilityservice', ':shortcuts'
